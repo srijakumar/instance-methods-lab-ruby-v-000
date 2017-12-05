@@ -8,3 +8,8 @@ class Dog
   end
 
 end
+
+fredy = Dog.new
+
+fredy.bark
+fredy.sit
