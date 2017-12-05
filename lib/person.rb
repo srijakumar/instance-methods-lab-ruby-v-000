@@ -10,5 +10,7 @@ class Person
 
 end
 
-Person.talk
-Person.walk
+frodo = Person.new
+
+frodo.talk
+frodo.walk
